@@ -7,7 +7,7 @@ https://discuss.pivotal.io/hc/en-us/articles/227364367-How-to-Rewrite-URLs-in-HT
 
 Test by hitting http://test-rewrite.cfapps.io/aaa.  Tail of logs:
 ```
-Retrieving logs for app test-rewrite in org pcfp / space haydon-playground as hryan@pivotal.io...
+Retrieving logs for app test-rewrite in org pcfp / space haydon-playground as h...
 
 
 
