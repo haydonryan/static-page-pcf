@@ -1,0 +1,5 @@
+applications:
+- name: staticfile-buildpack
+  buildpack: php_buildpack
+  memory: 256mb
+  instances: 1
